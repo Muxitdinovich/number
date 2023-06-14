@@ -9,7 +9,7 @@
    
    pip install opencage
    
-   git cloene https://github.com/Muxitdinovich/number.git
+   git clone https://github.com/Muxitdinovich/number.git
    </pre>
    Run:
    <pre>
