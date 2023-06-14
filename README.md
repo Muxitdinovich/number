@@ -10,6 +10,8 @@
    pip install opencage
    
    git clone https://github.com/Muxitdinovich/number.git
+   
+   cd number
    </pre>
    Run:
    <pre>
