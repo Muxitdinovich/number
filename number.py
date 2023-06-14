@@ -4,7 +4,7 @@ import folium
 
 from phonenumbers import geocoder
 
-number = input("Telefon nomer kriting misol(+998992223456):")
+number = input("Телефон номер пример(+15512223581):")
 
 pepnum = phonenumbers.parse(number)
 loca = geocoder.description_for_number(pepnum, 'en')
